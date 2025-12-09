@@ -20,7 +20,7 @@ st.set_page_config(page_title="Service Request Management", layout="wide")
 if 'requests' not in st.session_state:
     st.session_state.requests = []
     # Load sample requests on first run
-    sample_file = os.path.join(os.path.dirname(__file__), '..', 'backend', 'data', 'sample_requests.json')
+    sample_file = os.path.join('backend', 'data', 'sample_requests.json')
     if os.path.exists(sample_file):
         with open(sample_file, 'r') as f:
             sample_data = json.load(f)
