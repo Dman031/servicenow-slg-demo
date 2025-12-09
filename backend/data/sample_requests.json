@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "channel": "Resident Portal",
+    "requester_type": "Resident",
+    "summary": "Large pothole on Main Street",
+    "description": "There is a large pothole on Main Street near the intersection with Oak Avenue. It's causing damage to vehicles and is a safety hazard, especially during rainy weather.",
+    "status": "NEW"
+  },
+  {
+    "id": 2,
+    "channel": "Phone",
+    "requester_type": "Resident",
+    "summary": "Streetlight not working on Elm Street",
+    "description": "The streetlight at 123 Elm Street has been out for over a week. It's very dark at night and creates a safety concern for pedestrians and drivers.",
+    "status": "NEW"
+  },
+  {
+    "id": 3,
+    "channel": "Walk-in",
+    "requester_type": "Resident",
+    "summary": "Missed trash pickup on Maple Drive",
+    "description": "Our trash was not picked up on the scheduled day (Tuesday) at 456 Maple Drive. The bins were out by 6 AM as required. This is the second time this month.",
+    "status": "NEW"
+  },
+  {
+    "id": 4,
+    "channel": "Resident Portal",
+    "requester_type": "Resident",
+    "summary": "Business permit application status",
+    "description": "I submitted a business permit application for a new restaurant three weeks ago and haven't received any updates. Can you provide the current status and expected timeline?",
+    "status": "NEW"
+  },
+  {
+    "id": 5,
+    "channel": "Resident Portal",
+    "requester_type": "Employee",
+    "summary": "Laptop screen is broken",
+    "description": "My work laptop screen cracked when I accidentally dropped it. The screen is completely black now and I cannot use the device. I need a replacement or repair as soon as possible.",
+    "status": "NEW"
+  },
+  {
+    "id": 6,
+    "channel": "Phone",
+    "requester_type": "Employee",
+    "summary": "Cannot reset password",
+    "description": "I'm locked out of my account and the password reset link in my email is not working. I've tried multiple times but keep getting an error message. Need help accessing my account.",
+    "status": "NEW"
+  },
+  {
+    "id": 7,
+    "channel": "Resident Portal",
+    "requester_type": "Employee",
+    "summary": "Payroll direct deposit not received",
+    "description": "I did not receive my direct deposit for this pay period. I checked my bank account and confirmed the deposit was not made. My employee ID is 12345.",
+    "status": "NEW"
+  },
+  {
+    "id": 8,
+    "channel": "Phone",
+    "requester_type": "Employee",
+    "summary": "Health insurance benefits question",
+    "description": "I need to add my new spouse to my health insurance plan. What documents do I need to submit and what is the deadline for open enrollment changes?",
+    "status": "NEW"
+  }
+]
+
